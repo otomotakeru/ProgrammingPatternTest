@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a8e7ec9e2ea7914cacf980f0437f918, type: 3}
+  m_Name: MissionFlag
+  m_EditorClassIdentifier: 
+  _mainMissionFlags:
+    _flagName: Main mission
+    _isComplete: 0
+  _subMissionFlags:
+  - _flagName: Sub mission 1
+    _isComplete: 0
+  - _flagName: Sub mission 2
+    _isComplete: 0
